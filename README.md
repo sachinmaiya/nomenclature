@@ -20,3 +20,6 @@ Error reporting:
 
 - send, recv
 - sendto, recvfr # breaking unix tradition here
+
+Semaphores and mutexes
+- give, take
