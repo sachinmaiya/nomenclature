@@ -23,3 +23,6 @@ Error reporting:
 
 Semaphores and mutexes
 - give, take
+
+Queues
+- append, prepend, remove
